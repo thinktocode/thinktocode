@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Namanbir</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namanbir</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thinktocode&color=dc143c" alt="thinktocode" /> </p>
