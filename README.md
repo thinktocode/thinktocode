@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
 
-- ⚡ Fun fact **...**
+- ⚡ Fun fact **I'm quite funny.😂**
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
