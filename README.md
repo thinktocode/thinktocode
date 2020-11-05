@@ -33,7 +33,7 @@
 <a href="https://python.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/Css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://github.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="vscode" width="40" height="40"/> </a>
