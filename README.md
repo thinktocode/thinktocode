@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **Instagram.**
-
 - 💬 Ask me about **#Android #Kotlin #Arduino #IoT**
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
