@@ -32,6 +32,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/Css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/fluent/2x/android-os.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.gradle.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20201120181649%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> 
