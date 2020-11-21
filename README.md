@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">  
-<a href="https://www.linkedin.com/in/namanbir-singh-262318178/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thinktocode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/namanbir-singh-262318178/" target="blank"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" alt="thinktocode" height="30" width="40" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6670675380869102167" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="thinktocode" height="30" width="40" /></a>
-<a href="https://instagram.com/thinktocode.in" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thinktocode" height="30" width="40" /></a></p>
+<a href="https://instagram.com/thinktocode.in" target="blank"><img align="middle" src="https://flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="thinktocode" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 
