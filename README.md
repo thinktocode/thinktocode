@@ -31,12 +31,13 @@
 <a href="https://python.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/Css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/fluent/2x/android-os.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.gradle.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20201120181649%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://github.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-line.svg" alt="ps" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="ps" width="40" height="40"/> </a>
 <a href="https://adobe.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
