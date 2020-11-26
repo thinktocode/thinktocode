@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namanbir</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thinktocode&color=dc143c" alt="thinktocode" /> </p>
+
+
+<h3 align="center">A passionate developer from India trying to help the world from his inventions. </h3>
+
 
 - 🔭 I’m currently working on **Programming Buddy**
 
