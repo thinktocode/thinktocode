@@ -20,7 +20,7 @@
 <h3 align="center">Programming Buddy</h3>
 </p>
 <p align="center">  
-<a href="programmingbuddy.io" target="blank"><img align="middle" src="https://avatars1.githubusercontent.com/u/74853914?s=200&v=4" alt="prgbuddy" height="50" width="50" /></a>
+<a href="https://programmingbuddy.io" target="blank"><img align="middle" src="https://avatars1.githubusercontent.com/u/74853914?s=200&v=4" alt="prgbuddy" height="50" width="50" /></a>
 <p align="center">
 
 Programming Buddy is my app, it contains courses of programming languages and other skills like hacking, Android and IoT. Programming Buddy will be launched in Dec 2020 or Jan 2021. Programming Buddy will award you a verified certificate, you can use the certificate in your resume.
