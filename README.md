@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
 
-- ⚡ Fun fact **I'm quite funny.😂**
+- ⚡ Fun fact **I'm quite funny😂**
 
 
 <p align="center">
