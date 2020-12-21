@@ -43,7 +43,10 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20201120181649%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://github.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="ps" width="40" height="40"/> </a>
+<a href="https://adobe.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="ps" width="40" height="40"/> </a>
+<a href="https://adobe.com" target="_blank"> <img src="https://seeklogo.com/images/A/adobe-illustrator-logo-775FAF240B-seeklogo.com.png" alt="ps" width="40" height="40"/> </a>
+<a href="https://adobe.com" target="_blank"> <img src="https://seeklogo.com/images/A/adobe-animate-logo-9D0AC83234-seeklogo.com.png" alt="ps" width="40" height="40"/> </a>
+<a href="https://figma.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="ps" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
