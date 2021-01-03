@@ -31,12 +31,12 @@
 
 
 <p align="left">  
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/c/c-plain.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a> 
-<a href="https://python.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="40" height="40"/> </a> 
+<a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/Css" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/Css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://android.com" target="_blank"> <img src="https://img.icons8.com/fluent/2x/android-os.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.gradle.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a> 
