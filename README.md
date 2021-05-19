@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Programming Buddy**
 
-- 🌱 I’m currently learning **Java Script**
-
-- 💬 Ask me about **#Android #Kotlin #Arduino #IoT**
+- 💬 Ask me about **#Android #Kotlin #Entrepreneurship #IoT**
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
 
