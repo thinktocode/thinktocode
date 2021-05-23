@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinktocode&color=dc143c" alt="thinktocode" /> </p>
 
 
-<h3 align="left">A passionate developer from India trying to help the world from his inventions. </h3>
+<h3 align="left">An entrepreneur from India, working on social issues. </h3>
 
 
 - 🔭 I’m currently working on **Programming Buddy**
@@ -12,15 +12,13 @@
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
 
-- ⚡ Fun fact **I'm quite funny😂**
-
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 </p>
 
 <p align="left">  
-<a href="https://www.linkedin.com/in/namanbir-singh-262318178/" target="blank"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/namanbir-singh-/" target="blank"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thinktocode" target="blank"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383260.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6670675380869102167" target="blank"><img align="middle" src="https://www.flaticon.com/svg/static/icons/svg/888/888907.svg" alt="playstore" height="30" width="40" /></a>
 <a href="https://instagram.com/thinktocode.in" target="blank"><img align="middle" src="https://flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="instagram" height="30" width="40" /></a></p>
