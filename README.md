@@ -6,9 +6,7 @@
 <h3 align="left">An entrepreneur from India, working on social issues. </h3>
 
 
-- 🔭 I’m currently working on **Programming Buddy**
-
-- 💬 Ask me about **#Android #Kotlin #Entrepreneurship #IoT**
+- 🔭 I’m currently working on **Programming Buddy** and **SHIELD**
 
 - 📫 How to reach me **singhnamanbir29@gmail.com**
 
